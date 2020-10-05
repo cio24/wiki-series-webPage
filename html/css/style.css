@@ -1,3 +1,10 @@
 body{
- background-color:yellow;   
+ background-color:yellow;
+ font-family: 'Courier New', Courier, monospace;
+}
+section{
+font-family: Arial, Helvetica, sans-serif;
+}
+article{
+font-family: sans-serif;
 }
