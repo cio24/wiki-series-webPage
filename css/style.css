@@ -1,11 +1,13 @@
 body{
- background-color:yellow;
+ background-color:orange;
  font-family: 'Courier New', Courier, monospace;
  font-size: 25px; color:red
 }
 section{
+display: flex;
 font-family: Arial, Helvetica, sans-serif;
 }
 article{
-font-family: sans-serif;
+display: flex;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
