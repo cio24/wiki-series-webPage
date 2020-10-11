@@ -9,3 +9,5 @@ document.addEventListener("DOMContentLoaded", function(){
     localStorage.setItem("Visitas",visitas);
     document.getElementById('visitantes').innerHTML = visitas;
 });
+
+//consumir datos de una API
