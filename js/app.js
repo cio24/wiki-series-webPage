@@ -7,4 +7,5 @@ document.addEventListener("DOMContentLoaded", function(){
         visitas = 1;
     }
     localStorage.setItem("Visitas",visitas);
+    document.getElementById('visitantes').innerHTML = visitas;
 });
